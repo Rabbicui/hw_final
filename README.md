@@ -3,8 +3,11 @@ This is a code repository of daily homework, which is filled with rabbi's naive 
 
 ### env
 python--3.8.0
+
 pytorch
+
 pip install statsmodel
+
 pip install sklearn
 
 ## Prediction and Improvement of Housing Prices by Classical Linear Regression Model
