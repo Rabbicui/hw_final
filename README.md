@@ -1,5 +1,5 @@
 # HW_final
-This is a code repository of daily homework, which is filled with rabbi's naive thought; The world here involves only choosing topics, writing reports, and running code.
+This is a code repository of daily homework, which is filled with rabbi's naive thought; The world here involves only choosing topics, writing reports, and running code. More details can be introducted as follow.
 
 ### env
 python--3.8.0
