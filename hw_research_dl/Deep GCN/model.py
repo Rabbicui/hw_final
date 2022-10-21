@@ -62,9 +62,8 @@ class GAT(nn.Module):
         x = F.dropout(x, self.dropout, training=self.training)
         x = F.elu(self.out_att(x, adj))
         return x
+ 
 
-
-# 读者可以自己对GCN模型结构进行修改和实验
 class APPNP(nn.Module):
 
     def __init__(self, nfeat, nclass, nlayers, nhidden, dropout):
